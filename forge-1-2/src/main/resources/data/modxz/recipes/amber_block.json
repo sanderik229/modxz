@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modxz:amber"
+    }
+  },
+  "result": {
+  "item": "modxz:amber_block"
+  }
+
+
+
+}

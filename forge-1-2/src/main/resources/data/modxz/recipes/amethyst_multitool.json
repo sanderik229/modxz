@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "123",
+    " 4 ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "modxz:copper_stick"
+    },
+    "1": {
+      "item": "modxz:amethyst_pickaxe"
+    },
+    "2": {
+      "item": "modxz:amethyst_shovel"
+    },
+    "3": {
+      "item": "modxz:amethyst_hoe"
+    },
+    "4": {
+      "item": "modxz:amethyst_axe"
+    }
+  },
+  "result": {
+    "item": "modxz:amethyst_multitool"
+  }
+}

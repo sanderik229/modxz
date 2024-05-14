@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    " XX",
+    " #X",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "modxz:copper_stick"
+    },
+    "X": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "modxz:amber_axe"
+  }
+}
